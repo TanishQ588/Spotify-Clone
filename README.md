@@ -9,7 +9,6 @@ This project focuses on **UI design and responsiveness** to give a Spotify-like 
 
 - 🎧 Music Player UI (Play, Pause, Next, Previous)  
 - 📂 Playlist Section (Static demo playlists)  
-- 📱 Fully Responsive Design (Mobile & Desktop friendly)  
 - 🌙 Modern Spotify-inspired look  
 - ⚡ Purely Frontend – No backend or API  
 
@@ -19,7 +18,6 @@ This project focuses on **UI design and responsiveness** to give a Spotify-like 
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (ES6)**  
 
 ---
 
